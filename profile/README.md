@@ -1,5 +1,5 @@
 # Eranodes
-![Eranodes Logo](https://media.discordapp.net/attachments/1199661376516390912/1201172291615215616/image.png?ex=65c8d9df&is=65b664df&hm=a565e68e663118345bd6afef062ce11c95dc6ee3d7bb87832160608c74f26ec9&=&format=webp&quality=lossless&width=300&height=100)
+![Eranodes Logo](https://media.discordapp.net/attachments/1201150963369652305/1201544269207453857/eranodesbanner.png?ex=65ca344d&is=65b7bf4d&hm=ae73a9644407ff3747e85fdc7075d91301c772590134b589db520e0fbbea70bd&=&format=webp&quality=lossless&width=300&height=150)
 
 
 Welcome to Eranodes – your go-to platform for free 24/7 Minecraft Hosting.
